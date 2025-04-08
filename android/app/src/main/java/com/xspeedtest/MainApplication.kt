@@ -1,4 +1,4 @@
-package com.xspeedtest
+package com.Velocity
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Carre-JWja.ttf",
+      "sha1": "4aa17d05e352cf280ed1b394b43eba704818014c"
+    },
+    {
+      "path": "assets/fonts/Teko-Bold.ttf",
+      "sha1": "751d95bcec982b2c45bafc9f36d08d9081d5a9bb"
+    },
+    {
+      "path": "assets/fonts/Teko-Light.ttf",
+      "sha1": "53621aab1507362f53d4ba28b8819b58ec3f5ade"
+    },
+    {
+      "path": "assets/fonts/Teko-Medium.ttf",
+      "sha1": "3edafd3dbb5ed9fb65888b5cf0430175274af80c"
+    },
+    {
+      "path": "assets/fonts/Teko-Regular.ttf",
+      "sha1": "8d5a68253f7fe13bee6a7fbd1a015347de818c8b"
+    },
+    {
+      "path": "assets/fonts/Teko-SemiBold.ttf",
+      "sha1": "31ed3c5dfa9ff7ef4b9b615f7ebe21a6be376efe"
+    }
+  ]
+}
